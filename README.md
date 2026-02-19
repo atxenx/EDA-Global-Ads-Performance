@@ -2,6 +2,7 @@
 
 **Course:** DES432 – Statistics & Data Modeling  
 **Student:** Thitiphong Wongmaung 6622781324
+
 **Student:** Pannadhorn Chidchue 6622780888
 
 ## 📌 Overview
